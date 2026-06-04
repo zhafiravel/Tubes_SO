@@ -1,0 +1,15 @@
+# SSH Keys
+*.pem
+*.ppk
+id_rsa
+id_rsa.pub
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Logs
+*.log
